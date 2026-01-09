@@ -1,6 +1,6 @@
 # 😺 Hello, I'm pagecoy 
 
-I'm a 16-year-old web developer helping out local businesses in the Philippines. 
+I'm a 16-year-old full-stack web developer helping out local businesses in the Philippines. 
 
 ---
 
