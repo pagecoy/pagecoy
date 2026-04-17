@@ -4,9 +4,6 @@ I'm a 16-year-old full-stack web developer helping out local businesses in the P
 
 ---
 
-### 📡 Current Research - 01/04/2026 (MM/DD/YYYY)
-- **Headless Architecture** - Decoupling frontend and backend for flexible and reliable web apps.
-
 ### 🛠️ Tech Stack
 **Frontend & Styling**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,4 +21,4 @@ I'm a 16-year-old full-stack web developer helping out local businesses in the P
 ---
 
 ### 🔗 Connect with the Me
-[TikTok](https://www.tiktok.com/@pagecoy) • [Discord](https://discord.com/users/912864738386538516) • [Portfolio](https://backspace-studio.vercel.app)
+[TikTok](https://www.tiktok.com/@pagecoy) • [Discord](https://discord.com/users/912864738386538516) • [Portfolio](https://cliffordportfolio.vercel.app)
