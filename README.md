@@ -1,24 +1,21 @@
-# 😺 Hello, I'm pagecoy 
+Website Developer from the Philippines
 
-I'm a 16-year-old full-stack web developer helping out local businesses in the Philippines. 
-
----
-
-### 🛠️ Tech Stack
-**Frontend & Styling**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend & Database**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+I build websites that work, look good, get seen, and have clean code.
 
 ---
 
-### 🔗 Connect with the Me
-[TikTok](https://www.tiktok.com/@pagecoy) • [Discord](https://discord.com/users/912864738386538516) • [Portfolio](https://cliffordportfolio.vercel.app)
+### 📂 Current Project
+I am currently working on a **master website template** designed for real-world business use. I'm building it with **Next.js (React)** on the frontend and **Flask (Python)** with **MongoDB** on the backend. 
+
+Instead of just building a basic site, I make sure every project includes:
+* **Sleek and Optimized Design:** First impressions matter.
+* **Custom CMS:** Content management made simple.
+* **Complete SEO:** Built-in sitemaps, Google Analytics integration, and search optimization.
+* **Legal Essentials:** Ready-to-go Privacy Policy and Terms setups.
+
+*Take a look at my pinned repositories below to see the code behind it.*
+
+---
+
+### 🔗 Channels
+[Portfolio](https://cliffordportfolio.vercel.app) / [Insta](https://www.instagram.com/_pagecoy/) / Discord: `pagecoy`
